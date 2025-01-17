@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="854" height="480" viewBox="0 0 854 480">
+<defs>
+<g>
+<g id="glyph-0-0">
+<path d="M 1.59375 1.046875 L 1.59375 -4.765625 L 3.109375 -4.765625 L 3.109375 -4.28125 L 2.171875 -4.28125 L 2.171875 0.578125 L 3.109375 0.578125 L 3.109375 1.046875 Z "/>
+</g>
+<g id="glyph-0-1">
+<path d="M 1.765625 -0.8125 L 1.765625 -2.109375 L 0.53125 -2.109375 L 0.53125 -2.59375 L 1.765625 -2.59375 L 1.765625 -3.90625 L 2.25 -3.90625 L 2.25 -2.59375 L 3.46875 -2.59375 L 3.46875 -2.109375 L 2.25 -2.109375 L 2.25 -0.8125 Z "/>
+</g>
+<g id="glyph-0-2">
+<path d="M 2.40625 -4.765625 L 2.40625 1.046875 L 0.90625 1.046875 L 0.90625 0.578125 L 1.828125 0.578125 L 1.828125 -4.28125 L 0.90625 -4.28125 L 0.90625 -4.765625 Z "/>
+</g>
+<g id="glyph-0-3">
+<path d="M 0.59375 -0.78125 L 0.59375 -1.296875 L 2.78125 -2.34375 L 0.59375 -3.53125 L 0.59375 -4.0625 L 3.40625 -2.484375 L 3.40625 -2.15625 Z "/>
+</g>
+<g id="glyph-0-4">
+<path d="M 1 -1.53125 L 1 -2.0625 L 3 -2.0625 L 3 -1.53125 Z "/>
+</g>
+<g id="glyph-0-5">
+<path d="M 3.40625 -0.78125 L 0.59375 -2.15625 L 0.59375 -2.484375 L 3.40625 -4.0625 L 3.40625 -3.53125 L 1.234375 -2.34375 L 3.40625 -1.296875 Z "/>
+</g>
+<g id="glyph-0-6">
+</g>
+</g>
+</defs>
+<g fill="rgb(100%, 100%, 100%)" fill-opacity="1">
+<use xlink:href="#glyph-0-0" x="30" y="27.126953"/>
+<use xlink:href="#glyph-0-1" x="34" y="27.126953"/>
+<use xlink:href="#glyph-0-1" x="38" y="27.126953"/>
+<use xlink:href="#glyph-0-1" x="42" y="27.126953"/>
+<use xlink:href="#glyph-0-1" x="46" y="27.126953"/>
+<use xlink:href="#glyph-0-1" x="50" y="27.126953"/>
+<use xlink:href="#glyph-0-1" x="54" y="27.126953"/>
+<use xlink:href="#glyph-0-1" x="58" y="27.126953"/>
+<use xlink:href="#glyph-0-2" x="62" y="27.126953"/>
+<use xlink:href="#glyph-0-1" x="66" y="27.126953"/>
+<use xlink:href="#glyph-0-1" x="70" y="27.126953"/>
+<use xlink:href="#glyph-0-3" x="74" y="27.126953"/>
+<use xlink:href="#glyph-0-1" x="78" y="27.126953"/>
+<use xlink:href="#glyph-0-1" x="82" y="27.126953"/>
+<use xlink:href="#glyph-0-1" x="86" y="27.126953"/>
+<use xlink:href="#glyph-0-3" x="90" y="27.126953"/>
+<use xlink:href="#glyph-0-4" x="94" y="27.126953"/>
+<use xlink:href="#glyph-0-4" x="98" y="27.126953"/>
+<use xlink:href="#glyph-0-5" x="102" y="27.126953"/>
+<use xlink:href="#glyph-0-5" x="106" y="27.126953"/>
+<use xlink:href="#glyph-0-0" x="110" y="27.126953"/>
+<use xlink:href="#glyph-0-3" x="114" y="27.126953"/>
+<use xlink:href="#glyph-0-1" x="118" y="27.126953"/>
+<use xlink:href="#glyph-0-1" x="122" y="27.126953"/>
+<use xlink:href="#glyph-0-5" x="126" y="27.126953"/>
+<use xlink:href="#glyph-0-4" x="130" y="27.126953"/>
+<use xlink:href="#glyph-0-2" x="134" y="27.126953"/>
+<use xlink:href="#glyph-0-6" x="138" y="27.126953"/>
+</g>
+</svg>
